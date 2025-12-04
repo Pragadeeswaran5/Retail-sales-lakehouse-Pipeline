@@ -272,7 +272,7 @@ Through this project I gained hands-on experience with:
 
 ✅ **This project represents a complete, production-style Azure Data Engineering pipeline built from ingestion to analytics layer with strong governance, scalability, and correctness guarantees.**
 
-## **Contributors**
+## **Contributor**
 - Pragadeeswaran J
 
 ## **License**
