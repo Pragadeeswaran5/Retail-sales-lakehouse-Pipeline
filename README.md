@@ -215,11 +215,9 @@ ADF handles:
 ## 📊 Data Model
 
 ### Star Schema Layout
-
                 Date_Dim
                     |
-Products_Dim --- Fact_Sales --- Customers_Dim (SCD-2)
-
+Products_Dim -- Fact_Sales -- Customers_Dim (SCD-2)
 
 Benefits:
 
